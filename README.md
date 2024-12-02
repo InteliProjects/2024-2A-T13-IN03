@@ -29,7 +29,3 @@ Criar uma solução com modelo preditivo para apoiar na avaliação de dados de 
 - Grupo 4 
   - Link do repositório: https://github.com/InteliProjects/2024-2A-T13-IN03-G04
   - https://github.com/Inteli-College/2024-2A-T13-IN03-G04
-
-- Grupo 5 
-  - Link do repositório: https://github.com/InteliProjects/2024-2A-T13-IN03-G05
-  - https://github.com/Inteli-College/2024-2A-T13-IN03-G05
